@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "138408667200",
+    "firebase_url": "https://fb-tutorial-94aa2.firebaseio.com",
+    "project_id": "fb-tutorial-94aa2",
+    "storage_bucket": "fb-tutorial-94aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138408667200:android:52f8d0a5440f7682",
+        "android_client_info": {
+          "package_name": "test.firebase.mjd.fb_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138408667200-30iqisks6m9pq8qhvgms7d9n6tac4e0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuH1EXJrDws42uuY3lXyzNQi7ykn3biAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138408667200:android:88696d902b53617c",
+        "android_client_info": {
+          "package_name": "test.firebase.mjd.fbpushnot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138408667200-30iqisks6m9pq8qhvgms7d9n6tac4e0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuH1EXJrDws42uuY3lXyzNQi7ykn3biAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138408667200:android:1de931ed9a5c2679",
+        "android_client_info": {
+          "package_name": "test.firebase.mjd.firebasepushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138408667200-30iqisks6m9pq8qhvgms7d9n6tac4e0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuH1EXJrDws42uuY3lXyzNQi7ykn3biAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

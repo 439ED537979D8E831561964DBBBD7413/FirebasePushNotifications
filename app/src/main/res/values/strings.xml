@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FBPushNot</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="users_fragment">Users Fragment</string>
+    <string name="notification_fragment">Notification Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="welcome_to_firebase_push_notification_app">Welcome to Firebase Push Notification App</string>
+    <string name="user">User</string>
+    <string name="username">Username</string>
+    <string name="default_notification_channel_id">MJD_FB_01</string>
+</resources>

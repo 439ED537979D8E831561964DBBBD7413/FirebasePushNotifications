@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:padding="15dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@mipmap/round_1"
+            android:id="@+id/notif_image"/>
+    <TextView
+            android:text="Username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/notif_name"
+            android:layout_toRightOf="@+id/notif_image" android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp" android:fontFamily="@font/gudea_bold" android:textSize="18sp"
+            android:textColor="#000000"/>
+    <TextView
+            android:text="NotificationMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/notif_message" android:layout_toRightOf="@+id/notif_image"
+            android:layout_below="@+id/notif_name" android:layout_marginLeft="20dp" android:fontFamily="@font/gudea"
+            android:textSize="16sp"/>
+
+</RelativeLayout>
